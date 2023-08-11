@@ -1,0 +1,31 @@
+Clase 03
+
+Definicion de la Tarea
+Elegir un vino para comprarlo e informarse sobre el mismo.
+
+
+User Flow, Content Prototype
+(C cliente, V vendedor)
+
+COMIENZO
+C: -Hola, quisiera elegir un vino.
+V: -Sabes el tipo de vino que estas buscando?
+C: -SI
+V: -Ingresa el nombre del vino
+C: -Fond de Cave
+V: -Ingrese la cantidad
+C: -3
+V: -Quiere seleccionar otro vino?
+C: -NO
+V: -Confirma su compra?
+C: -SI
+V: -Compra realizada con exito.
+FIN
+
+
+COMIENZO
+C: -Hola, quisiera elegir un vino.
+V: -Sabes el tipo de vino que estas buscando?
+C: -No
+V: -Realiza el siguiente: Test
+...
